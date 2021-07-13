@@ -5,6 +5,7 @@ edition = "2018"
 description = "A Rust library for interacting with the the Sprog 3 DCC decoder"
 homepage = "https://webdcc.com"
 repository = "https://github.com/Eelviny/sprog"
+license = "GPL-3.0-or-later"
 license-file = "LICENSE"
 
 [dependencies]
