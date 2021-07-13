@@ -3,7 +3,7 @@ name = "sprog"
 version = "0.1.0"
 edition = "2018"
 description = "A Rust library for interacting with the the Sprog 3 DCC decoder"
-homepage = "webdcc.com"
+homepage = "https://webdcc.com"
 repository = "https://github.com/Eelviny/sprog"
 license-file = "LICENSE"
 

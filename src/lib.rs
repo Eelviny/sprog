@@ -7,5 +7,5 @@ mod tests {
 }
 
 pub fn sprog_hello(x: u32) {
-    println!("Working on it!");
+    println!("Working on it! {}", x);
 }
